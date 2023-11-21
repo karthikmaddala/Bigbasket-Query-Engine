@@ -2,7 +2,7 @@
 
 **Setup Instructions**
 
-1)Clone the repository or Download the repository.
+1)Clone the repository or Download the repository.\n
 2)Install all the requirements.
 3)Run **vector_embeddings.py** to create embeddings.csv file.
       **python vector_embeddings.py**
