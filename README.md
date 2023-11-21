@@ -24,13 +24,13 @@
 1)The Inital Query asked was **what is the price of apples?**
 
 **Output**
-![Screenshot from 2023-11-21 16-48-25](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/58032f3a-b024-4886-b718-d490f7fc3e1f)
+![image](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/7f36b2d0-3e32-40c4-b7f0-5b20b64ccc9a)
 
 
 2)The second question asked is **suggest me a best book brand**
 
 **output**
-![Screenshot from 2023-11-21 16-48-58](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/76940ae6-b17d-4a96-beb4-1e656f82c8d7)
+![Screenshot from 2023-11-21 17-29-02](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/cfcdeb12-9d97-415a-a32c-0f2ace57e31b)
 
 **output**
 3)The third question asked is **product that can be purchased for bodycare**
