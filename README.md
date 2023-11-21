@@ -34,5 +34,6 @@
 
 **output**
 3)The third question asked is **product that can be purchased for bodycare**
-![Screenshot from 2023-11-21 16-49-35](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/a222ae59-2181-4768-b2fa-9e60ff55eb90)
+![Screenshot from 2023-11-21 17-27-14](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/b362fb1b-4076-40b1-bb35-d1885cd6407c)
+
 
