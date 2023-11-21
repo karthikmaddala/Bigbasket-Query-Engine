@@ -32,6 +32,7 @@
 **output**
 ![Screenshot from 2023-11-21 16-48-58](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/76940ae6-b17d-4a96-beb4-1e656f82c8d7)
 
+**output**
 3)The third question asked is **product that can be purchased for bodycare**
 ![Screenshot from 2023-11-21 16-49-35](https://github.com/karthikmaddala/Bigbasket-Query-Engine/assets/63143658/a222ae59-2181-4768-b2fa-9e60ff55eb90)
 
