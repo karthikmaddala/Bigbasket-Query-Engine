@@ -4,10 +4,10 @@ import os
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def generate_embeddings():
-    # Load your dataset
+
     df = pd.read_csv('data/bigBasketProducts.csv')
 
-    # Ensure descriptions are strings and handle NaN values
+
     df['description'] = df['description'].fillna('')  # Replace NaN with empty string
     df['description'] = df['description'].astype(str)  # Convert all to strings
 
