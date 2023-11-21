@@ -4,7 +4,6 @@ import os
 
 app = Flask(__name__)
 
-# Set your OpenAI API key here (use an environment variable for security)
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', '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')
 engine = QueryEngine(OPENAI_API_KEY)
 
