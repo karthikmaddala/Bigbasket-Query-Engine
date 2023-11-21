@@ -9,8 +9,10 @@
 
       **python vector_embeddings.py**
 
-4)The Run **app.py** to run the application 
-      **python app.py**
+4)The Run **app.py** to run the application  
+
+      **python app.py**   
+
 5)open the url.
 
 **Query Engine sample outputs**
