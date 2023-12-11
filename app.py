@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', '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')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', ' ')
 engine = QueryEngine(OPENAI_API_KEY)
 
 @app.route('/ask', methods=['POST'])
